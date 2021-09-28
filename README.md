@@ -14,4 +14,8 @@
 * module "my-links" are in folder http, you execute with command npm start and npm run api,one front-end(port: 5000) and other api(port: 3000)
 ![mylinks](https://user-images.githubusercontent.com/52864546/135067488-07661bc9-5b70-46c8-a698-00a0fe110623.png)
 
+# Aula
+> ## Node.js: Iniciando da teoria à prática | Masterclass #11
+- Video aula: https://www.youtube.com/watch?v=DiXbJL3iWVs
+>> ## Whith Mayk Brito
 
