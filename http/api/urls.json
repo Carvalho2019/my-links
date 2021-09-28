@@ -1,16 +1,20 @@
 {
   "urls": [
     {
-      "name": "Rockseat",
-      "url": "http://raockseat.com.br"
+      "name": "My Facebook",
+      "url": "https://www.facebook.com/taisomcarvalho15/"
     },
     {
-      "name": "Google",
-      "url": "http://google.com"
+      "name": "My LinkedIn",
+      "url": "https://www.linkedin.com/in/clesio-carvalho/"
     },
     {
-      "name": "Google",
-      "url": "http://facebook.com"
+      "name": "My Github",
+      "url": "https://github.com/Carvalho2019"
+    },
+    {
+      "name": "My Portfolio",
+      "url": "https://readymag.com/u417929370/1998006/"
     }
   ]
 }

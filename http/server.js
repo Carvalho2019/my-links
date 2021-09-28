@@ -12,14 +12,14 @@ http.createServer((req,res)=> {
   const allowed = allowedFileTypes.find(item=> item === extname)
   if(!allowed) return
 
-  fs.readFile(
-    filePath,
-    (err,content) => {
-      if(err) throw err
+    fs.readFile(
+      filePath,
+      (err,content) => {
+        if(err) throw err
 
-      res.end(content)
-    }
-  )
+        res.end(content)
+      }
+    )
   
 
 }).listen(5000, ()=>{
